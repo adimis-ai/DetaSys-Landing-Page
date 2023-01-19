@@ -4,7 +4,7 @@
     import Footer from "$lib/components/Footer.svelte";
 </script>
 
-<div class="p-5">
+<div class="p-5 bg-gray-900">
   <Header />
   <slot />
   <Footer />
