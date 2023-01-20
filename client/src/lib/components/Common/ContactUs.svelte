@@ -4,12 +4,9 @@
         <div class="container flex flex-col flex-1 px-6 py-12 mx-auto">
             <div class="flex-1 lg:flex lg:items-center lg:-mx-6">
                 <div class="text-white lg:w-1/2 lg:mx-6">
-                    <h1 class="text-3xl font-semibold capitalize lg:text-4xl">Ultimate design solution</h1>
-
+                    <h1 class="text-3xl font-semibold capitalize lg:text-4xl">Don't wait any longer</h1>
                     <p class="max-w-xl mt-6">
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatem quo
-                        aliquid molestiae hic incidunt beatae placeat accusantium! Alias ex quisquam ab tempora. Ratione
-                        autem doloremque ducimus numquam doloribus, error sed.
+                        take the first step towards streamlining your business operations and increasing profitability with Detasys and Deta today!
                     </p>
 
                     <button class="px-8 py-3 mt-6 text-sm font-medium tracking-wide text-white capitalize transition-colors duration-300 transform bg-gray-600 rounded-md hover:bg-gray-500 focus:outline-none focus:ring focus:ring-gray-400 focus:ring-opacity-50">

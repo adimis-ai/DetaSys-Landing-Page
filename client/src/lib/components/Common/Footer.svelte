@@ -1,18 +1,31 @@
-<footer class="footer footer-center p-10 text-base-contentrounded">
-  <div class="grid grid-flow-col gap-4 text-white">
-    <a class="link link-hover">About us</a> 
-    <a class="link link-hover">Contact</a> 
-    <a class="link link-hover">Jobs</a> 
-    <a class="link link-hover">Press kit</a>
-  </div> 
-  <div>
-    <div class="grid grid-flow-col gap-4">
-      <a><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="fill-current"><path d="M24 4.557c-.883.392-1.832.656-2.828.775 1.017-.609 1.798-1.574 2.165-2.724-.951.564-2.005.974-3.127 1.195-.897-.957-2.178-1.555-3.594-1.555-3.179 0-5.515 2.966-4.797 6.045-4.091-.205-7.719-2.165-10.148-5.144-1.29 2.213-.669 5.108 1.523 6.574-.806-.026-1.566-.247-2.229-.616-.054 2.281 1.581 4.415 3.949 4.89-.693.188-1.452.232-2.224.084.626 1.956 2.444 3.379 4.6 3.419-2.07 1.623-4.678 2.348-7.29 2.04 2.179 1.397 4.768 2.212 7.548 2.212 9.142 0 14.307-7.721 13.995-14.646.962-.695 1.797-1.562 2.457-2.549z"></path></svg></a> 
-      <a><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="fill-current"><path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"></path></svg></a> 
-      <a><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" class="fill-current"><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"></path></svg></a>
-    </div>
-  </div> 
-  <div>
-    <p class="text-blue-300">Copyright © 2023 - All right reserved by DetaSys Pvt. Ltd</p>
+<footer class="flex justify-center px-4 text-gray-200 bg-gray-900 mt-10">
+  <div class="container px-6 py-6">
+      <h1 class="text-lg font-bold text-center lg:text-2xl">
+        Don't just take our word for it, see for yourself.<br><span class="text-blue-300">Sign up for our free demo today and see how Deta can benefit your business..</span>
+      </h1>
+
+      <div class="flex flex-col justify-center mx-auto mt-8 space-y-3 md:space-y-0 md:flex-row">
+          <input id="email" type="text" class="px-4 py-2 text-gray-700 bg-white border rounded-md dark:bg-gray-800 dark:text-gray-300 dark:border-gray-600 focus:border-blue-400 dark:focus:border-blue-300 focus:outline-none focus:ring focus:ring-opacity-40 focus:ring-blue-300" placeholder="Email Address">
+  
+          <button class="w-full px-6 py-2.5 text-sm font-medium tracking-wider text-white transition-colors duration-300 transform md:w-auto md:mx-4 focus:outline-none bg-gray-800 rounded-lg hover:bg-gray-700 focus:ring focus:ring-gray-300 focus:ring-opacity-80">
+              Submit
+          </button>
+      </div>
+
+      <hr class="h-px bg-gray-300 border-none my-7">
+
+      <div class="flex flex-col items-center justify-between md:flex-row">
+          <div>
+              <a href="#" class="text-2xl font-bold text-blue-300">Brand</a>
+          </div>
+
+          <div class="flex mt-4 md:m-0">
+              <div class="-mx-4">
+                  <a href="#" class="px-4 text-sm text-gray-300 transition-colors duration-300 hover:text-blue-300">About</a>
+                  <a href="#" class="px-4 text-sm text-gray-300 transition-colors duration-300 hover:text-blue-300">Services</a>
+                  <a href="#" class="px-4 text-sm text-gray-300 transition-colors duration-300 hover:text-blue-300">Contact</a>
+              </div>
+          </div>
+      </div>
   </div>
 </footer>
